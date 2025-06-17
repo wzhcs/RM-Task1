@@ -1,0 +1,9 @@
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/uninstall.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/vision_uninstall.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/test.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/edit_cache.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/rebuild_cache.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/list_install_components.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/install.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/install/local.dir
+/home/zjy/桌面/RMM/build/vision/CMakeFiles/install/strip.dir

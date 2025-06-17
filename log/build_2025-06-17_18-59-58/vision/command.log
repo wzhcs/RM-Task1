@@ -1,0 +1,6 @@
+Invoking command in '/home/zjy/桌面/RMM/build/vision': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/RMM/src/vision -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/RMM/install/vision
+Invoked command in '/home/zjy/桌面/RMM/build/vision' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/RMM/src/vision -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/RMM/install/vision
+Invoking command in '/home/zjy/桌面/RMM/build/vision': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/RMM/build/vision -- -j32 -l32
+Invoked command in '/home/zjy/桌面/RMM/build/vision' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/RMM/build/vision -- -j32 -l32
+Invoking command in '/home/zjy/桌面/RMM/build/vision': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/RMM/build/vision
+Invoked command in '/home/zjy/桌面/RMM/build/vision' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/RMM/build/vision

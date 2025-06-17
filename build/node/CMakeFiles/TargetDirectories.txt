@@ -1,0 +1,11 @@
+/home/zjy/桌面/RMM/build/node/CMakeFiles/uninstall.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/node_uninstall.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/publisher.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/subscriber.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/test.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/edit_cache.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/rebuild_cache.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/list_install_components.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/install.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/install/local.dir
+/home/zjy/桌面/RMM/build/node/CMakeFiles/install/strip.dir

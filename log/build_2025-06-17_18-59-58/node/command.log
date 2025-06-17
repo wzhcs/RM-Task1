@@ -1,0 +1,6 @@
+Invoking command in '/home/zjy/桌面/RMM/build/node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/RMM/src/node -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/RMM/install/node
+Invoked command in '/home/zjy/桌面/RMM/build/node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/RMM/src/node -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/RMM/install/node
+Invoking command in '/home/zjy/桌面/RMM/build/node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/RMM/build/node -- -j32 -l32
+Invoked command in '/home/zjy/桌面/RMM/build/node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/RMM/build/node -- -j32 -l32
+Invoking command in '/home/zjy/桌面/RMM/build/node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/RMM/build/node
+Invoked command in '/home/zjy/桌面/RMM/build/node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/RMM/build/node

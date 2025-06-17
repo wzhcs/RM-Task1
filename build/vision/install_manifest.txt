@@ -1,0 +1,17 @@
+/home/zjy/桌面/RMM/install/vision/share/vision//config/a.yaml
+/home/zjy/桌面/RMM/install/vision/share/vision//launch/a.launch.py
+/home/zjy/桌面/RMM/install/vision/share/ament_index/resource_index/package_run_dependencies/vision
+/home/zjy/桌面/RMM/install/vision/share/ament_index/resource_index/parent_prefix_path/vision
+/home/zjy/桌面/RMM/install/vision/share/vision/environment/ament_prefix_path.sh
+/home/zjy/桌面/RMM/install/vision/share/vision/environment/ament_prefix_path.dsv
+/home/zjy/桌面/RMM/install/vision/share/vision/environment/path.sh
+/home/zjy/桌面/RMM/install/vision/share/vision/environment/path.dsv
+/home/zjy/桌面/RMM/install/vision/share/vision/local_setup.bash
+/home/zjy/桌面/RMM/install/vision/share/vision/local_setup.sh
+/home/zjy/桌面/RMM/install/vision/share/vision/local_setup.zsh
+/home/zjy/桌面/RMM/install/vision/share/vision/local_setup.dsv
+/home/zjy/桌面/RMM/install/vision/share/vision/package.dsv
+/home/zjy/桌面/RMM/install/vision/share/ament_index/resource_index/packages/vision
+/home/zjy/桌面/RMM/install/vision/share/vision/cmake/visionConfig.cmake
+/home/zjy/桌面/RMM/install/vision/share/vision/cmake/visionConfig-version.cmake
+/home/zjy/桌面/RMM/install/vision/share/vision/package.xml

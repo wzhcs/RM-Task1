@@ -1,0 +1,25 @@
+# serial_config.yaml
+# 基于stty输出的串口参数配置
+
+publisher:  # 节点名称
+  ros__parameters:
+    port_name: "/dev/pts/10"    # 串口号
+    baud_rate: 38400            # 波特率
+    data_bits: 8                # 数据位
+    parity: "N"                 # 校验位(N:无/E:偶/O:奇)
+    stop_bits: 1                # 停止位
+    flow_control: "none"        # 流控模式(none/rtscts/xonxoff)
+    canonical: false            # 原始模式(-icanon)
+    echo: false                 # 关闭回显(-echo)
+    send_message: "Hello RM!\n"
+
+subscriber:  # 节点名称
+  ros__parameters:
+    port_name: "/dev/pts/11"    # 串口号
+    baud_rate: 38400            # 波特率
+    data_bits: 8                # 数据位
+    parity: "N"                 # 校验位(N:无/E:偶/O:奇)
+    stop_bits: 1                # 停止位
+    flow_control: "none"        # 流控模式(none/rtscts/xonxoff)
+    canonical: false            # 原始模式(-icanon)
+    echo: false                 # 关闭回显(-echo) 
